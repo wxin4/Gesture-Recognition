@@ -19,10 +19,6 @@ In this project, we assume that there are several documents in a specific direct
 - Task3() contains three loops and generates heatmap images which will be saved in the ImgOutput folder
 - Task4("test1", "TF_IDF2") means the user selects test1.wrd.csv and TF_IDF2 as input. This can be customized by users.The output will be shown in the folder of SimilarOutput folder. If you want to rerun this, please comment out line 376 - line 391!!!
 
-### Sample Outputs
-- Task 3 heatmap output sample:
-![](/ImgOutput/test1-TF_IDF.png)
-
 ### Key Words
 - Gesture Recognition
 - Document Categorization
